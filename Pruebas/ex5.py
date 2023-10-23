@@ -32,9 +32,9 @@ Ejemplo 3:
 
 
 Inicio
-año = diast / 365
-mes = diast // 365
-dia = diast % 365
+año = diast / 360
+mes = diast // 360
+dia = diast % 360
 Escribe "Introduzca los días trabajados: "
 Lee diast
 
